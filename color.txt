@@ -1,5 +1,7 @@
 <set of colours - branched from main branch>
 red
+master branch color
+merged with branch2
 blue
 black
 White
