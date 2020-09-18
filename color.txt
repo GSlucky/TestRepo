@@ -1,5 +1,7 @@
 <set of colours>
 red
 blue
+black
+White
 haze
 <end of colours>
