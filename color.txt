@@ -5,4 +5,6 @@ black
 White
 haze
 TestColour
+branch2 color
+may conflict with Master
 <end of colours>
