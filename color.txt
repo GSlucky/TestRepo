@@ -4,5 +4,6 @@ blue
 black
 White
 haze
+some more colours
 TestColour
 <end of colours>
