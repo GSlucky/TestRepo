@@ -6,6 +6,7 @@ blue
 black
 White
 haze
+some more colours
 TestColour
 branch2 color
 may conflict with Master
